@@ -55,5 +55,9 @@ namespace StackUsingLinked_List
                 Console.WriteLine();
             }
         }
+        static void Main(string[] args)
+        {
+           
+        }
     }
 }
