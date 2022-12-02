@@ -11,4 +11,8 @@ namespace StackUsingLinked_List
             next = n;
         }
     }
+    class Stacks
+    {
+       
+    }
 }
