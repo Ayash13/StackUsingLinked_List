@@ -18,6 +18,12 @@ namespace StackUsingLinked_List
         {
             top = null;
         }
-       
+        bool empty()
+        {
+            if ( top == null)
+                return (true);
+            else 
+                return (false);
+        }
     }
 }
