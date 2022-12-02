@@ -25,5 +25,10 @@ namespace StackUsingLinked_List
             else 
                 return (false);
         }
+        public void push(int element)
+        {
+           
+
+        }
     }
 }
