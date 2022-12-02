@@ -13,6 +13,11 @@ namespace StackUsingLinked_List
     }
     class Stacks
     {
+        Node top;
+        public Stacks()
+        {
+            top = null;
+        }
        
     }
 }
