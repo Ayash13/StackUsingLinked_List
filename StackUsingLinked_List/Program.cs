@@ -30,7 +30,9 @@ namespace StackUsingLinked_List
             Node fresh;
             fresh = new Node(element, null);
 
-            
+            fresh.next = top;
+            top = fresh;
+            Console.WriteLine(" " + element + "Pushed");
 
         }
     }
