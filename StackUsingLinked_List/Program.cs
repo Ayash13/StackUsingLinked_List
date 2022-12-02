@@ -57,6 +57,7 @@ namespace StackUsingLinked_List
         }
         static void Main(string[] args)
         {
+            Stacks s = new Stacks();
            
         }
     }
