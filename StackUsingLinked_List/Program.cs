@@ -27,7 +27,10 @@ namespace StackUsingLinked_List
         }
         public void push(int element)
         {
-           
+            Node fresh;
+            fresh = new Node(element, null);
+
+            
 
         }
     }
