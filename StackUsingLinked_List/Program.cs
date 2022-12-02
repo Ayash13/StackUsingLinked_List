@@ -35,5 +35,10 @@ namespace StackUsingLinked_List
             Console.WriteLine(" " + element + "Pushed");
 
         }
+        public void pop()
+        {
+            Console.WriteLine("The popped elemet is : " + top.info);
+            
+        }
     }
 }
